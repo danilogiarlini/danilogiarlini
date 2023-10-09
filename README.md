@@ -1,10 +1,8 @@
 # Hi there, I'm Danilo 👋
 
-
 I'm a Frontend Developer and Data Analyst 👨‍💻.   
 
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <div>  
