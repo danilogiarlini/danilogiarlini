@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Fronted Developer at Wichee</p>
+I'm a Junior Fronted Developer at [Wichee](https://www.wichee.com/)
 
 ###
 
