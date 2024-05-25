@@ -2,8 +2,7 @@
 
 ###
 
-I'm a Junior Fronted Developer at [Wichee](https://www.wichee.com/)
-
+I'm a Junior Fronted Developer at <a href="https://www.wichee.com/" target="_blank">Wichee</a>
 ###
 
 <h2 align="left">👨🏻‍💻 Currently coding with...</h2>
@@ -24,6 +23,5 @@ I'm a Junior Fronted Developer at [Wichee](https://www.wichee.com/)
 ###
 
 ## Connect with me
-- [Linkedin](https://www.linkedin.com/in/danilo-giarlini/) <br/>
-- [Gmail](mailto:danilogiarlini@gmail.com) <br/>
-  
+- <a href="https://www.linkedin.com/in/danilo-giarlini/" target="_blank">LinkedIn</a>
+- <a href="mailto:danilogiarlini@gmail.com" target="_blank">Gmail</a>  
