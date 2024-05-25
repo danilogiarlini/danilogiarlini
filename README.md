@@ -10,27 +10,20 @@
 
 ###
 
-<div align="left">
-	<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  </a>
-  <img width="25" />
-  <a href="https://react.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  </a>
-  <img width="25" />
-	<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-	</a>
-  <img width="25" />
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
-  </a>
+<div align="left">  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 70px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+	<img width="20" />
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 70px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+	<img width="20" />
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 70px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
+	<img width="20" />
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 70px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+	<img width="20" />
 </div>
 
 ###
 
 ## Connect with me
-<img src="https://skillicons.dev/icons?i=linkedin" valign="top" height="25" alt="linkedin logo"  /> <img width="5" /> [Linkedin](https://www.linkedin.com/in/danilo-giarlini/) <img width="10" /> <img src="https://skillicons.dev/icons?i=gmail&theme=light&theme=light" valign="top" height="25" alt="gmail logo"  /> <img width="5" /> [Gmail](mailto:danilogiarlini@gmail.com) <br/>
+- [Linkedin](https://www.linkedin.com/in/danilo-giarlini/) <br/>
+- [Gmail](mailto:danilogiarlini@gmail.com) <br/>
   
