@@ -11,13 +11,16 @@
 ###
 
 <div align="left">
+  <a href="https://www.typescriptlang.org/">
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
   <img width="25" />
+  <a href="https://react.dev/">
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="25" />
   <a href="https://tailwindcss.com/">
   <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="25" />
+  <a href="https://redux.js.org/">
   <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
 </div>
 
