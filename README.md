@@ -15,7 +15,8 @@
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=tailwind" href="https://tailwindcss.com/" height="45" alt="tailwindcss logo"  />
+  <a href="https://tailwindcss.com/">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
 </div>
